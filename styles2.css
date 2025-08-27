@@ -1,0 +1,60 @@
+.green-text {
+
+  color: green;
+
+}
+
+.italic {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul > p {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: rgb(252, 13, 200);
+}
+
+ol {
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+.blue-text {
+
+  color: blue;
+
+}
+
+.yellow-text {
+
+  color: yellow;
+
+}
+
+.red-text {
+
+  color: red;
+
+}
+
+.word1 { font-size: 10px; }
+.word2 { font-size: 20px; }
+.word3 { font-size: 30px; }
+.word4 { font-size: 40px; }
+.word5 { font-size: 50px; }
+.word6 { font-size: 60px; }
+.word7 { font-size: 70px; }
+
+
+p.bold {
+    font-weight: bold;
+}
+
+body {
+    font-size: 24px;
+}
